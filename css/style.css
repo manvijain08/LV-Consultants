@@ -581,7 +581,7 @@ button {
   opacity: 0.96;
 }
 
-.overview__single {
+/* .overview__single {
   padding: 20px 30px;
   background: rgba(255, 255, 255, 0.1);
   transition: all 0.4s;
@@ -613,9 +613,9 @@ button {
 .overview__single:hover .overview__single__icon i,
 .overview__single:hover .overview__single__icon span {
   color: #262533;
-}
+} */
 
-.tips-bg {
+/* .tips-bg {
   background: #f9cc41;
   padding: 90px 0;
 }
@@ -682,7 +682,7 @@ button {
 }
 .social-icons li a:hover {
   color: #f9cc41;
-}
+} */
 
 .service__single {
   padding: 35px 27px;
