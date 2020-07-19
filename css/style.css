@@ -752,7 +752,7 @@ button {
 }
 @media (max-width: 575px) {
   .hero__slideContent {
-    bottom: 0px;
+    bottom: 60px;
   }
   .response {
     height: 250px;
@@ -760,26 +760,25 @@ button {
   }
   .hero-banner.project-bg {
     height: 25em;
-    width: 26.5em;
+    width: 27em;
   }
   .hero-banner.project-bg1 {
     height: 25em;
-    width: 26.5em;
+    width: 27em;
   }
   .hero-banner.project-bg2 {
     height: 25em;
-    width: 26.5em;
+    width: 27em;
   }
   .hero-banner.project-bg3 {
     height: 25em;
-    width: 26.5em;
+    width: 27em;
   }
 }
-
 .hero__slideContent:after {
   content: "";
   position: absolute;
-  width: 100%;
+  width: 50%;
   height: 100%;
   top: 0;
   left: 0;
