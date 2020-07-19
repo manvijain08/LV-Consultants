@@ -724,6 +724,7 @@ button {
 
 .hero__slide {
   position: relative;
+  background-color: rgba(0, 0, 0, 0.2);
 }
 .hero__slide img {
   width: 100%;
