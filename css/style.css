@@ -560,10 +560,10 @@ button {
   display: inline-block;
   position: absolute;
   bottom: 11%;
-  left: 13%;
+  left: 70%;
   background: #f9cc41;
   color: #000000;
-  padding: 0.9rem 1.2rem 1rem 1.2rem;
+  /* padding: 0.9rem 1.2rem 1rem 1.2rem; */
   transition: all 0.4s;
 }
 .about__img__date h3 {
