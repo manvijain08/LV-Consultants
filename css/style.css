@@ -428,6 +428,8 @@ button {
 ============================================================================================ */
 .hero-banner {
   padding: 120px 0 50px 0;
+  height: 600px;
+  width: 1349.49px;
 }
 @media (min-width: 992px) {
   .hero-banner {
@@ -444,6 +446,19 @@ button {
   background-size: cover;
 }
 
+.hero-banner.project-bg1 {
+  background: url("../img/projects.png") left center no-repeat;
+  background-size: cover;
+}
+
+.hero-banner.project-bg2 {
+  background: url("../img/ser.PNG") left center no-repeat;
+  background-size: cover;
+}
+.hero-banner.project-bg3 {
+  background: url("../img/one.jpg") left center no-repeat;
+  background-size: cover;
+}
 .breadcrumb {
   padding: 0;
   background: transparent;
@@ -559,11 +574,11 @@ button {
 .about__img__date {
   display: inline-block;
   position: absolute;
-  bottom: 11%;
-  left: 10%;
+  bottom: 72.5%;
+  right: 70%;
   background: #f9cc41;
   color: #000000;
-  /* padding: 0.9rem 1.2rem 1rem 1.2rem; */
+  padding: 0.1rem 0rem 0.1rem 0rem;
   transition: all 0.4s;
 }
 .about__img__date h3 {
@@ -617,7 +632,7 @@ button {
 
 .tips-bg {
   background: #f9cc41;
-  padding: 90px 0;
+  padding: 50px;
 }
 .tips-bg .section-intro__subtitle {
   margin-bottom: 20px;
@@ -723,8 +738,8 @@ button {
 .hero__slideContent {
   position: absolute;
   width: 100%;
-  bottom: 125px;
-  left: 50%;
+  bottom: 50px;
+  left: 58%;
   transform: translateX(-50%);
   max-width: 400px;
   padding: 50px 30px;
