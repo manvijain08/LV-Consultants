@@ -752,9 +752,30 @@ button {
 }
 @media (max-width: 575px) {
   .hero__slideContent {
-    bottom: 60px;
+    bottom: 0px;
+  }
+  .response {
+    height: 250px;
+    width: 250px;
+  }
+  .hero-banner.project-bg {
+    height: 25em;
+    width: 26.5em;
+  }
+  .hero-banner.project-bg1 {
+    height: 25em;
+    width: 26.5em;
+  }
+  .hero-banner.project-bg2 {
+    height: 25em;
+    width: 26.5em;
+  }
+  .hero-banner.project-bg3 {
+    height: 25em;
+    width: 26.5em;
   }
 }
+
 .hero__slideContent:after {
   content: "";
   position: absolute;
