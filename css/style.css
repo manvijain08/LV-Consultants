@@ -723,7 +723,7 @@ button {
 }
 
 .hero__slide {
-  position: relative;
+  /* position: relative; */
 }
 .hero__slide img {
   width: 100%;
